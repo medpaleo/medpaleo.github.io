@@ -1,6 +1,5 @@
 ---
 layout: single
-title: María Francisca Alba Sánchez
 permalink: /members/paqui/
 
 author:

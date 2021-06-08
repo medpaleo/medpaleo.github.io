@@ -1,6 +1,5 @@
 ---
 layout: single
-title: Diego Nieto Lugilde
 permalink: /members/diego/
 
 author:
