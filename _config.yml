@@ -110,7 +110,8 @@ defaults:
       path: "_members"
       type: "members"
     values:
-      layout: "author"
+      layout: author
+      author_profile: true
 
 category_archive:
   type: liquid
