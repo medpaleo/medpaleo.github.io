@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /members/paqui/
+title: María Francisca Alba Sánchez (Paqui)
 
 author:
   name: María Francisca Alba Sánchez
