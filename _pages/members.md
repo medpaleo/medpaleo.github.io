@@ -1,7 +1,7 @@
 ---
 layout: single
-title: People
-permalink: /people/
+title: Members
+permalink: /members/
 ---
 
 {% for member in site.members %}

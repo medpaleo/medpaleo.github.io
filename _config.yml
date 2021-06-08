@@ -105,6 +105,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _authors
+  - scope:
+      path: "_members"
+      type: "members"
+    values:
+      layout: "author"
 
 category_archive:
   type: liquid
