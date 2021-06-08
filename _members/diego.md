@@ -1,4 +1,8 @@
 ---
+layout: single
+title: Diego Nieto Lugilde
+permalink: /members/diego/
+
 name: Diego Nieto Lugilde
 position: Professor
 afiliation: Universidad de Córdoba
