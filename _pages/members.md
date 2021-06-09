@@ -8,12 +8,9 @@ permalink: /members/
 
   {% capture avatar_file %}{{ member.author.avatar }}{% endcapture %}
   {% capture avatar_alt %}{{ member.author.name }}{% endcapture %}
-
+  ![Diego Nieto Lugilde](assets/images/bio-photo.jpg){: .align-left}
   <h2>
-    <a href="{{ member.url }}"> {{ member.author.name }}
-    ![Diego Nieto Lugilde](assets/images/bio-photo.jpg){: .align-left}
-    {% include members_avatar.html max-width="100px" file=avatar_file alt=avatar_alt %}
-</a>
+    <a href="{{ member.url }}"> {{ member.author.name }}</a>
   </h2>
-  {{ member.affiliation }} - {{ member.country }}
+  {% include members_avatar.html max-width="100px" file=avatar_file alt=avatar_alt %} {{ member.affiliation }} - {{ member.country }}
 {% endfor %}
