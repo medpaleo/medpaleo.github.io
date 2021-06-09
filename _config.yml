@@ -109,7 +109,7 @@ defaults:
       path: "_members"
       type: "members"
     values:
-      layout: collection
+      layout: archive
       author_profile: true
 
 category_archive:
