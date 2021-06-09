@@ -10,5 +10,5 @@ permalink: /members/
   <h2>
     <a href="{{ member.url }}"> {{ member.author.name }} </a>
   </h2>
-  <p>{{ member.affiliation }} ( {{ member.country }} )</p>
+  <p>{{ member.affiliation }} - {{ member.country }}</p>
 {% endfor %}
