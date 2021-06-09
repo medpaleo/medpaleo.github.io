@@ -1,20 +1,19 @@
 ---
-layout: collection
+layout: single
 title: Members
 permalink: /members/
-collection: members
 ---
 
 {% for member in site.members %}
 
 <div>
-  {% capture avatar_image %} ![{{ member.author.name }}]({{member.author.avatar}}) {% endcapture %}
+  {% capture avatar_image %} ![{{ member.author.name }}]({{member.author.avatar}}){: .align-right} {% endcapture %}
 
+  {{ avatar_image | markdownify }}
   <div>
-    {{ avatar_image | markdownify }}
-    <h3>
+    <h2>
       <a href="{{ member.url }}"> {{ member.author.name }}</a>
-    </h3>
+    </h2>
     {{ member.affiliation }} - {{ member.country }}
   </div>
 </div>
