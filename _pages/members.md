@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Members
 permalink: /members/
+collection: members
 ---
 
 {% for member in site.members %}
