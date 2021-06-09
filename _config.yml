@@ -125,6 +125,6 @@ collections:
     output: true
     people: true
     permalink: /:collection/:path/
-  portolio:
+  portfolio:
     output: true
     permalink: /:collection/:path/
