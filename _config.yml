@@ -124,3 +124,7 @@ collections:
   members:
     output: true
     people: true
+    permalink: /:collection/:path/
+  portolio:
+    output: true
+    permalink: /:collection/:path/
