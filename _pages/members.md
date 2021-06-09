@@ -6,9 +6,9 @@ permalink: /members/
 
 {% for member in site.members %}
 
-  {% capture avatar_file %}{{ member.author.avatar }}{% endcapture %}
-  {% capture avatar_alt %}{{ member.author.name }}{% endcapture %}
-  ![Diego Nieto Lugilde](assets/images/bio-photo.jpg){: .align-left}
+  {% capture avatar_image %} ![{{ member.author.name }}]({{member.author.avatar}}){: .align-left} {% endcapture %}
+
+  {{ avatar_image | markdownify }}
   <h2>
     <a href="{{ member.url }}"> {{ member.author.name }}</a>
   </h2>
