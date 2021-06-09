@@ -1,6 +1,10 @@
 ---
 title: Members
+layout: collection
 permalink: /members/
+collection: members
+entries_layout: grid
+class: wide
 ---
 
 {% for member in site.members %}
