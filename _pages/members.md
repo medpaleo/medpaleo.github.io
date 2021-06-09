@@ -10,7 +10,7 @@ class: wide
 <div class="grid__wrapper">
   {% for member in site.members %}
 
-  {% include member.html type="grid" %}
+  {% include /_includes/archive-single.html type="grid" %}
 
 <!--  {% capture avatar_image %} ![{{ member.author.name }}]({{member.author.avatar}}) {% endcapture %}
 
