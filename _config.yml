@@ -104,12 +104,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _authors
+  # _members
   - scope:
       path: "_members"
       type: "members"
     values:
-      layout: author
+      layout: collection
       author_profile: true
 
 category_archive:

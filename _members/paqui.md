@@ -10,5 +10,12 @@ author:
 position: Professor
 affiliation: Universidad de Granada
 country: Spain
+
+biopic: Paqui is palynologist.
+
+feature_row:
+  - image_path: member.author.avatar
+    alt: member.author.name
+    title: member.author.name
+    excerpt: member.author.biopic
 ---
-Paqui is palynologist.

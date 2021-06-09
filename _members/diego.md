@@ -19,5 +19,6 @@ author:
 position: Professor
 affiliation: Universidad de Córdoba
 country: Spain
+
+biopic: Diego is a biogeographer and modeller with a strong interest in combining paleoecological record with model calibration and validation.
 ---
-Diego is a biogeographer and modeller with a strong interest in combining paleoecological record with model calibration and validation.
