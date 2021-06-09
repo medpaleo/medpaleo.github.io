@@ -10,9 +10,8 @@ permalink: /members/
   {% capture avatar_alt %}{{ member.author.name }}{% endcapture %}
 
   {% include members_avatar.html max-width="100px" file=avatar_file alt=avatar_alt %}
-  <img src="{{ member.author.avatar }}" alt="{{ member.author.name }}"  height=100 width=100>
   <h2>
     <a href="{{ member.url }}"> {{ member.author.name }} </a>
   </h2>
-  <p>{{ member.affiliation }} - {{ member.country }} - {{ avatar.file }}</p>
+  {{ member.affiliation }} - {{ member.country }}
 {% endfor %}
