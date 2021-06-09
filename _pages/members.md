@@ -6,7 +6,7 @@ permalink: /members/
 
 {% for member in site.members %}
 
-  {% capture avatar_image %} ![{{ member.author.name }}]({{member.author.avatar}}){: .align-left} {% endcapture %}
+  {% capture avatar_image %} ![{{ member.author.name }}]({{member.author.avatar}}){: .align-right} {% endcapture %}
 
   {{ avatar_image | markdownify }}
   <div>
