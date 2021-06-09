@@ -1,16 +1,20 @@
 ---
 title: Members
-layout: collection
 permalink: /members/
 collection: members
-entries_layout: grid
-class: wide
 ---
+
+
+<div class="grid__wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
 
 <div class="grid__wrapper">
   {% for member in site.members %}
 
-  {% include member.html type="grid" %}
+  {% include archive-single.html type="grid" %}
 
 <!--  {% capture avatar_image %} ![{{ member.author.name }}]({{member.author.avatar}}) {% endcapture %}
 

@@ -107,11 +107,10 @@ defaults:
   # _members
   - scope:
       path: "_members"
-      type: members
+      type: "members"
     values:
-      layout: single
+      layout: archive
       author_profile: true
-      share: true
 
 category_archive:
   type: liquid
@@ -124,4 +123,3 @@ collections:
   members:
     output: true
     people: true
-    permalink:  /:collection/:path/
