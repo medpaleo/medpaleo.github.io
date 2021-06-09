@@ -8,7 +8,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
 
 position: Professor
-afiliation: Universidad de Granada
+affiliation: Universidad de Granada
 country: Spain
 ---
 Paqui is palynologist.

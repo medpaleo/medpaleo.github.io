@@ -17,7 +17,7 @@ author:
       url: "https://github.com/dinilu"
 
 position: Professor
-afiliation: Universidad de Córdoba
+affiliation: Universidad de Córdoba
 country: Spain
 ---
 Diego is a biogeographer and modeller with a strong interest in combining paleoecological record with model calibration and validation.

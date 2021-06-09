@@ -6,9 +6,10 @@ permalink: /members/
 
 {% for member in site.members %}
   <h2>
+    ![{{ member.author.name }}]({{ member.author.avatar }})
     <a href="{{ member.url }}">
-      {{ member.author.name }} - {{ member.position }}
+      {{ member.author.name }}
     </a>
   </h2>
-  <p>{{ member.content | markdownify }}</p>
+  <p>{{ member.affiliation | markdownify }} ( {{ member.country }} )</p>
 {% endfor %}
