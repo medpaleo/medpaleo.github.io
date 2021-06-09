@@ -11,7 +11,7 @@ permalink: /members/
 
   <h2>
     <a href="{{ member.url }}"> {{ member.author.name }}
-    ![avatar_alt](avatar_file){: .align-left}
+    ![Diego Nieto Lugilde](assets/images/bio-photo.jpg){: .align-left}
     {% include members_avatar.html max-width="100px" file=avatar_file alt=avatar_alt %}
 </a>
   </h2>
