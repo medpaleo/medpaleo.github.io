@@ -6,7 +6,7 @@ permalink: /members/
 
 {% for member in site.members %}
   <h2>
-    ![{{ member.author.name }}]({{ member.author.avatar }})
+    <img src="{{ member.author.avatar }}" alt="{{ member.author.name }}">
     <a href="{{ member.url }}">
       {{ member.author.name }}
     </a>
