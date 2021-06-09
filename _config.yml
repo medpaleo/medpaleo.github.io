@@ -112,6 +112,12 @@ defaults:
     values:
       layout: author
       author_profile: true
+  - scope:
+      path: "_portfolio"
+      type: "portfolio"
+    values:
+      layout: collection
+      author_profile: true
 
 category_archive:
   type: liquid
