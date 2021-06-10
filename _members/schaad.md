@@ -1,9 +1,9 @@
 ---
 layout: single
-permalink: /members/paqui2/
-title: María Francisca Alba Sánchez (Paqui 2)
+permalink: /members/schaad/
+title: Daniel Abel Schaad
 author:
-  name: María Francisca Alba Sánchez (Paqui 2)
+  name: Daniel Abel Schaad
   avatar: "/assets/images/bio-photo.jpg"
 position: Professor
 affiliation: Universidad de Granada
@@ -12,4 +12,4 @@ header:
   teaser: assets/images/bio-photo.jpg
 
 ---
-Paqui is palynologist.
+Daniel is palynologist.
