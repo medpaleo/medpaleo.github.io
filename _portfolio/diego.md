@@ -16,7 +16,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dinilu"
 header:
-  teaser: assets/images/front_image.png
+  teaser: assets/images/bio-photo.png
 
 position: Professor
 affiliation: Universidad de Córdoba

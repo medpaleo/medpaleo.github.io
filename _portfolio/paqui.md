@@ -8,7 +8,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
 
 header:
-  teaser: assets/images/front_image.png
+  teaser: assets/images/bio-photo.png
 
 position: Professor
 affiliation: Universidad de Granada
