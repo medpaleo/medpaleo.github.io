@@ -3,7 +3,7 @@ layout: single
 permalink: /members/diego2/
 title: "Diego 2 Nieto Lugilde"
 author:
-  name   : "Diego Nieto Lugilde"
+  name   : "Diego 2 Nieto Lugilde"
   avatar : /assets/images/bio-photo.jpg
   links:
     - label: "Website"

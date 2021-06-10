@@ -3,7 +3,7 @@ layout: single
 permalink: /members/paqui/
 title: María Francisca Alba Sánchez (Paqui)
 author:
-  name: María Francisca Alba Sánchez
+  name: María Francisca Alba Sánchez (Paqui)
   avatar: "/assets/images/bio-photo.jpg"
 position: Professor
 affiliation: Universidad de Granada
