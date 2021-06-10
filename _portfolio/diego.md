@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /members/diego/
 title: "Diego Nieto Lugilde"
 author:
