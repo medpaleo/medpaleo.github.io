@@ -1,9 +1,13 @@
 ---
 title: Members
+layout: collection
 permalink: /members/
 collection: members
+entries_layout: grid
+classes: wide
 ---
 
+<!--Sample document listing for the collection `_portfolio`.
 {% for member in site.members %}
 
 <div>
@@ -18,3 +22,4 @@ collection: members
   </div>
 </div>
 {% endfor %}
+-->
