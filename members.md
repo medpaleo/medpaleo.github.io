@@ -6,7 +6,7 @@ collection: members
 entries_layout: grid
 classes: wide
 ---
-
+members.md in root directory.
 <!--Sample document listing for the collection `_portfolio`.
 {% for member in site.members %}
 
