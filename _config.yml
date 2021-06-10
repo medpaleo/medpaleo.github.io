@@ -112,6 +112,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "_projects"
+      type: "projects"
+    values:
+      layout: single
+  - scope:
+      path: "_publications"
+      type: "publications"
+    values:
+      layout: single
 
 category_archive:
   type: liquid
@@ -122,6 +132,14 @@ tag_archive:
 
 collections:
   members:
+    output: true
+    people: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    people: true
+    permalink: /:collection/:path/
+  publications:
     output: true
     people: true
     permalink: /:collection/:path/
