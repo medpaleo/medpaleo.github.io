@@ -76,6 +76,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/medpaleo"
+    avatar: assets/images/88x88.png
 
 footer:
   links:
