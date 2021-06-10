@@ -105,18 +105,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _authors
+  # _members
   - scope:
       path: "_members"
       type: "members"
     values:
-      layout: author
-      author_profile: true
-  - scope:
-      path: "_portfolio"
-      type: "portfolio"
-    values:
-      layout: collection
+      layout: single
       author_profile: true
 
 category_archive:
@@ -130,7 +124,4 @@ collections:
   members:
     output: true
     people: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
     permalink: /:collection/:path/
