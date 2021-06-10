@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /members/diego/
 title: "Diego Nieto Lugilde"
 author:
@@ -14,11 +15,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dinilu"
-header:
-  teaser: assets/images/bio-photo.jpg
-
 position: Professor
 affiliation: Universidad de Córdoba
 country: Spain
+header:
+  teaser: assets/images/bio-photo.jpg
+
 ---
 Diego is a biogeographer and modeller with a strong interest in combining paleoecological record with model calibration and validation.
