@@ -66,6 +66,7 @@ plugins:
 author:
   name   : "Med Paleo"
   bio    : "The research network for paleoecology in the mediterranean region."
+  avatar: /assets/images/88x88.png
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,7 +77,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/medpaleo"
-    avatar: assets/images/88x88.png
 
 footer:
   links:
@@ -113,16 +113,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
   - scope:
       path: "_projects"
       type: "projects"
     values:
       layout: single
+      author_profile: true
+  # _publications
   - scope:
       path: "_publications"
       type: "publications"
     values:
       layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
@@ -138,9 +142,7 @@ collections:
     permalink: /:collection/:path/
   projects:
     output: true
-    people: true
     permalink: /:collection/:path/
   publications:
     output: true
-    people: true
     permalink: /:collection/:path/
