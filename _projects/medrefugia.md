@@ -3,7 +3,7 @@ layout: single
 permalink: /projects/medrefugia/
 title: "Med-Refugia"
 header:
-  teaser: assets/images/front_image.png
+  image: assets/images/front_image.png
 
 research_blocks:
   - image_path: /assets/images/front_image.png

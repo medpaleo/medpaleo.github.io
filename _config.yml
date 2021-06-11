@@ -119,14 +119,14 @@ defaults:
       type: "projects"
     values:
       layout: single
-      author_profile: true
+
   # _publications
   - scope:
       path: "_publications"
       type: "publications"
     values:
       layout: single
-      author_profile: true
+
 
 category_archive:
   type: liquid
