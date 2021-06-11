@@ -5,7 +5,7 @@ title: "Med-Refugia"
 header:
   teaser: assets/images/front_image.png
 
-feature_row:
+research_blocks:
   - image_path: /assets/images/front_image.png
     alt: "Paleopalynology"
     title: Paleopalynology"
@@ -32,4 +32,4 @@ feature_row:
 
 Med-Refugia ...
 
-{% include feature_row %}
+{% include feature_row id="research_blocks" %}
