@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /members/paper1/
 title: "Paper1"
 header:
