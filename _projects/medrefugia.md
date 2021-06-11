@@ -32,4 +32,4 @@ research_blocks:
 
 Med-Refugia ...
 
-{% include feature_row id="research_blocks" type="center" %}
+{% include feature_row id="research_blocks" %}
