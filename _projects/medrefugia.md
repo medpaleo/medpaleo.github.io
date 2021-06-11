@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /projects/medrefugia/
 title: "Med-Refugia"
 header:
