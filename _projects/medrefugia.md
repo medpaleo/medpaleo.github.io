@@ -10,7 +10,7 @@ research_blocks:
     alt: "Paleopalynology"
     title: Paleopalynology"
     excerpt: "Coring new places and analysing sediment samples at different elevations."
-    url: "#paleopalynology"
+    url: "/projects/medrefugia/paleopalynology"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/front_image.png
@@ -32,4 +32,4 @@ research_blocks:
 
 Med-Refugia ...
 
-{% include feature_row id="research_blocks" %}
+{% include feature_row id="research_blocks" type="right" %}
