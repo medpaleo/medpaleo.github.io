@@ -3,7 +3,7 @@ title: Pinsapo range shift
 subtitle: 
 layout: default
 modal-id: 2
-date: 2021-11-01
+date: November 2021
 article: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
 authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez" 
 img: dreams.png
