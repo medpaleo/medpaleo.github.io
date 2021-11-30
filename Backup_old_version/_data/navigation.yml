@@ -1,9 +1,0 @@
-main:
-  - title: "About"
-    url: /about/
-  - title: "Members"
-    url: /members/
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /publications/
