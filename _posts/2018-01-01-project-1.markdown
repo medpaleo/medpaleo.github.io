@@ -1,6 +1,6 @@
 ---
 title: Med-Refugia
-subtitle: Website Design
+subtitle: Research project
 layout: default
 modal-id: 1
 date: 2018-01-01
@@ -8,7 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: 2018
-Funding agency: National R+D Programme
+client: National R+D Programme
 category: Refugia
 description: Identifying refugia for cold adapted species in the mediterranean region.
 
