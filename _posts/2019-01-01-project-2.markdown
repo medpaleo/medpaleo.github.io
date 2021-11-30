@@ -1,0 +1,15 @@
+---
+title: Oromed-Refugia
+subtitle: Website Design
+layout: default
+modal-id: 2
+date: 2019-01-01
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: January 2019
+client: Junta de Andalucía
+category: Research project
+description: Oromediterranean refugia characterization.
+
+---
