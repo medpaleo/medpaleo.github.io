@@ -1,5 +1,5 @@
 ---
-title: Lean pattern in pinsapo range shift
+title: Pinsapo range shift
 subtitle: 
 layout: default
 modal-id: 2
