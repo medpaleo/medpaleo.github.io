@@ -1,10 +1,11 @@
 ---
-title: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
-subtitle: Lean pattern in pinsapo range shift
+title: Lean pattern in pinsapo range shift
+subtitle: 
 layout: default
 modal-id: 2
 date: 2021-11-01
-authors: Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez 
+article: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
+authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez" 
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
