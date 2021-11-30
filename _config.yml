@@ -42,6 +42,28 @@ people:
     - title: google-plus
       url: #
 
+- name: Daniel Abel Schaad
+  pic: 4
+  position: Researcher in Paleoecology
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Javier Bobo Pinilla
+  pic: 5
+  position: Researcher in Phylogenetics
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
