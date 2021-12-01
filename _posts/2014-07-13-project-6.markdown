@@ -6,8 +6,8 @@ modal-id: 6
 date: "November 2021"
 article: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
 authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez" 
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: lean_pattern_forest.png
+thumbnail: lean_pattern_forest-thumbnail.png
 alt: image-alt
 project-date: 2019
 journal: Forest
