@@ -3,13 +3,12 @@ title: Pinsapo range shift
 subtitle: 
 layout: default
 modal-id: 5
-date: "November 2021"
-article: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
-authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez" 
+date: "August 2021"
+article: "Time to better integrate paleoecological research infrastructures with neoecology to improve understanding of biodiversity long-term dynamics and to inform future conservation"
+authors: "Diego Nieto-Lugilde, Jessica L. Blois, Francisco J. Bonet-García, Thomas Giesecke, Graciela Gil-Romera, and Alistair Seddon" 
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: 2019
 journal: Forest
 volume: 12(11)
 pages: 1451 

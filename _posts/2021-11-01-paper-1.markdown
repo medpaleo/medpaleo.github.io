@@ -9,7 +9,6 @@ authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Gil
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: 2019
 journal: Forest
 volume: 12(11)
 pages: 1451 
