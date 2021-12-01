@@ -11,7 +11,8 @@ description: "Medpaleo is a research team that combine paleoecology, neoecology,
 people:
 - name: Francisca Alba Sánchez
   pic: 1
-  position: Lead Researcher in Paleoecology
+  position: Professor
+  institution: Universidad de Granada
   social:
     - title: twitter
       url: #
@@ -22,7 +23,8 @@ people:
 
 - name: Julio Peñas de Giles
   pic: 2
-  position: Lead Researcher in Phylogenetics
+  position: Professor
+  institution: Universidad de Granada
   social:
     - title: twitter
       url: #
@@ -33,18 +35,22 @@ people:
 
 - name: Diego Nieto Lugilde
   pic: 3
-  position: Lead Researcher in Ecoinformatics
+  position: Professor
+  institution: Universidad de Córdoba
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/dinilu
+    - title: google
+      url: https://scholar.google.com/citations?user=JX3AT7EAAAAJ&hl=en
+    - title: website
+      url: https://dnietolugilde.com/
 
 - name: Daniel Abel Schaad
   pic: 4
-  position: Researcher in Paleoecology
+  position: Postdoc researcher
+  institution: Universidad de Granada
   social:
     - title: twitter
       url: #
@@ -55,11 +61,12 @@ people:
 
 - name: Javier Bobo Pinilla
   pic: 5
-  position: Researcher in Phylogenetics
+  position: Postdoc researcher
+  institution: Universidad de Salamanca
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: github
       url: #
     - title: google-plus
       url: #

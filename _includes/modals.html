@@ -15,7 +15,6 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>
                                     <strong>{{ post.article }}
@@ -23,21 +22,17 @@
                                 </li>
                             </ul>
                             <ul class="list-inline item-details">
-                                <li>Authors:
-                                    <strong>{{ post.authors }}
-                                    </strong>
+                                <li>
+                                    {{ post.authors }} ( {{ post.date}} )
                                 </li>
                             </ul>
                             <ul class="list-inline item-details">
-                                <li>Date:
-                                    <strong>{{ post.date }}
-                                    </strong>
-                                </li>
-                                <li>Reference:
+                                <li>
                                     <strong>{{ post.journal }}, {{ post.volume }}: {{ post.pages}}
                                     </strong>
                                 </li>
                             </ul>
+                            <p>{{ post.description }}</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
