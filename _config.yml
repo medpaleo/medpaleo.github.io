@@ -71,6 +71,18 @@ people:
     - title: google-plus
       url: #
 
+- name: Antonio González Hernandez
+  pic: "img/team/2.jpg"
+  position: Postdoc researcher
+  institution: Universidad de Granada
+  social:
+    - title: twitter
+      url: #
+    - title: github
+      url: #
+    - title: google-plus
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
