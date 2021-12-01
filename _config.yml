@@ -22,7 +22,7 @@ people:
       url: #
 
 - name: Julio Peñas de Giles
-  pic: 2
+  pic: "img/team/2.jpg"
   position: Professor
   institution: Universidad de Granada
   social:
@@ -34,7 +34,7 @@ people:
       url: #
 
 - name: Diego Nieto Lugilde
-  pic: 3
+  pic: "img/team/dnieto.jpg"
   position: Professor
   institution: Universidad de Córdoba
   social:
@@ -48,7 +48,7 @@ people:
       url: https://dnietolugilde.com/
 
 - name: Daniel Abel Schaad
-  pic: 4
+  pic: "img/team/2.jpg"
   position: Postdoc researcher
   institution: Universidad de Granada
   social:
@@ -60,7 +60,7 @@ people:
       url: #
 
 - name: Javier Bobo Pinilla
-  pic: 5
+  pic: "img/team/2.jpg"
   position: Postdoc researcher
   institution: Universidad de Salamanca
   social:
