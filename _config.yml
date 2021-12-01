@@ -10,7 +10,7 @@ description: "Medpaleo is a research team that combine paleoecology, neoecology,
 # Team names, titles and social links
 people:
 - name: Francisca Alba Sánchez
-  pic: 1
+  pic: "img/team/falba.jpg"
   position: Professor
   institution: Universidad de Granada
   social:
