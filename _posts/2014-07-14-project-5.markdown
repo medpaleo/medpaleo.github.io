@@ -1,16 +1,16 @@
 ---
-title: Pinsapo range shift
+title: Paleoecology research infrastructures
 subtitle: 
 layout: default
 modal-id: 5
 date: "August 2021"
 article: "Time to better integrate paleoecological research infrastructures with neoecology to improve understanding of biodiversity long-term dynamics and to inform future conservation"
 authors: "Diego Nieto-Lugilde, Jessica L. Blois, Francisco J. Bonet-García, Thomas Giesecke, Graciela Gil-Romera, and Alistair Seddon" 
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: research_infrastructure.png
+thumbnail: research_infrastructure-thumbnail.png
 alt: image-alt
-journal: Forest
-volume: 12(11)
-pages: 1451 
-description: By comparing niche models fitted with adults and juveniles of Abies pinsapo, we have been able to identify an altitudinal shift in their distribution. This shift is not synchronous in the upper and lower range limits, leading to a lean pattern that, if continued in the future, might cause a strong range contration.
+journal: Environmental Research Letters
+volume: 16(9)
+pages: 095005 
+description: In this manuscript, we review the state of the art of research infrastructure in Paleoecology and descrive future venues for integration with Neoecological research infrastructures.
 ---
