@@ -2,7 +2,7 @@
 title: Paleoecology research infrastructures
 subtitle: 
 layout: default
-modal-id: 5
+modal-id: 2
 date: "August 2021"
 article: "Time to better integrate paleoecological research infrastructures with neoecology to improve understanding of biodiversity long-term dynamics and to inform future conservation"
 authors: "Diego Nieto-Lugilde, Jessica L. Blois, Francisco J. Bonet-García, Thomas Giesecke, Graciela Gil-Romera, and Alistair Seddon" 

@@ -2,7 +2,7 @@
 title: Phylogenetic community structure
 subtitle: 
 layout: default
-modal-id: 4
+modal-id: 1
 date: "July 2021"
 article: "Relationships between climate and phylogenetic community structure of fossil pollen assemblages are not constant during the last deglaciation."
 authors: "Kavya Pradhan, Diego Nieto-Lugilde, and Matthew C. Fitzpatrick" 
