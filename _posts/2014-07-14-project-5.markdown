@@ -9,7 +9,7 @@ authors: "Diego Nieto-Lugilde, Jessica L. Blois, Francisco J. Bonet-García, Tho
 img: research_infrastructure.png
 thumbnail: research_infrastructure-thumbnail.png
 alt: image-alt
-journal: Environmental Research Letters
+journal: Envir. Research Letters
 volume: 16(9)
 pages: 095005 
 description: In this manuscript, we review the state of the art of research infrastructure in Paleoecology and descrive future venues for integration with Neoecological research infrastructures.

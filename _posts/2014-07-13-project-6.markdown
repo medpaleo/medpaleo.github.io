@@ -1,5 +1,5 @@
 ---
-title: Pinsapo range shift
+title: Abies pinsapo range shift
 subtitle: 
 layout: default
 modal-id: 6
