@@ -1,6 +1,7 @@
 ---
 title: MedRefugia
 subtitle:
+permalink: /medrefugia/
 date: "January 2019"
 layout: single
 classes: wide
