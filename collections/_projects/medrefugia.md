@@ -1,7 +1,7 @@
 ---
 title: MedRefugia
 subtitle:
-layout: default
+layout: single
 date: "January 2019"
 collection: projects
 entries_layout: grid
