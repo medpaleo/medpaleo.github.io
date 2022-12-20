@@ -1,8 +1,8 @@
 ---
-title: People
+title: Papers
 layout: collection
-permalink: /people/
-collection: people
+permalink: /papers/
+collection: papers
 entries_layout: grid
 classes: wide
 ---
