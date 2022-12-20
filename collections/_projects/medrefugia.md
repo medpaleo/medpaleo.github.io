@@ -1,6 +1,6 @@
 ---
 title: MedRefugia
-layout: collection
+layout: default
 collection: projects
 entries_layout: grid
 classes: wide

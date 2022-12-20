@@ -6,6 +6,8 @@ title: MedPaleo
 email: dnietolugilde@gmail.com
 description: "Medpaleo is a research team that combine paleoecology, neoecology, phylogenetics, and ecoinformatics."
 
+collections_dir: collections
+
 collections:
   projects:
     output: true
@@ -17,7 +19,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: default
       author_profile: false
 
 # Team names, titles and social links
