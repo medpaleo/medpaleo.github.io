@@ -19,9 +19,9 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: collections
+      type: project
     values:
-      layout: default
+      layout: collection
       author_profile: false
 
 # Team names, titles and social links
