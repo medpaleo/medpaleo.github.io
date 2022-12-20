@@ -1,42 +1,29 @@
-_site
+# Vim
+*~
+*.sw[p_]
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
 
-# Folder config file
-Desktop.ini
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Node.js and NPM
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
+# macOS
 .DS_Store
-.AppleDouble
-.LSOverride
 
-# Icon must ends with two \r.
-Icon
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-.Rproj.user
-
-# R project files
-.Rhistory
-.Rdata
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
