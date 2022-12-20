@@ -6,9 +6,30 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/header-bg.jpg
 excerpt: "Welcome to the Mediterranean Paleoecology Group."
+
+feature_row:
+    - image_path: "fa fa-globe"
+    title: "Paleoecology"
+    excerpt: "Paleoecological analysis provide valuable information on species and community changes through time."
+    url: "#paleoecology"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    - image_path: "fa fa-flask"
+    title: "Phylogenetics"
+    excerpt: "Phylogenetic analysis inform on the relationship between species and populations, as well as their demographic changes."
+    url: "#paleoecology"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    - image_path: "fa fa-laptop"
+    title: "Ecoinformatics"
+    excerpt: "Independent and spatially explicit evidence to contrast and complement paleoecology and phylogenetics."
+    url: "#paleoecology"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-{% include approach.html %}
+{% include feature_row %}
+<!-- {% include approach.html %} -->
 {% include portfolio_grid.html %}
 {% include projects.html %}
 {% include team.html %}
