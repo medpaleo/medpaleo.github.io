@@ -1,7 +1,7 @@
 ---
 title: MedRefugia
 layout: collection
-permalink: /projects/
+permalink: /projects/medrefugia
 collection: projects
 entries_layout: grid
 classes: wide
