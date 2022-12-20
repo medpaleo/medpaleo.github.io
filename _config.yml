@@ -270,6 +270,7 @@ compress_html:
   ignore:
     envs: development
 
+collections_dir: collections
 
 collections:
   projects:
