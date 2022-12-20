@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Approach"
-    url: 
+  - title: "Approache"
+    url: #approache
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: #publications
   - title: "Projects"
-    url: /year-archive/
+    url: #projects
   - title: "Team"
-    url: /collection-archive/
+    url: #team
