@@ -1,13 +1,13 @@
 ---
-title: Med-Refugia
+title: MedRefugia
 layout: collection
+permalink: /projects/
 collection: projects
 entries_layout: grid
 classes: wide
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
-
+  image: /img/header-bg.jpg
+  teaser: /img/header-bg.jpg
 sidebar:
   - title: "Funding"
     image: https://medpaleo.github.io/img/projects/medrefugia/micin-uefeder-aeig.pdf
