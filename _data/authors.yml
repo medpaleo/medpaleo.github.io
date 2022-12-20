@@ -1,0 +1,63 @@
+diego:
+  name        : "Diego Nieto Lugilde"
+  bio         : "Plant biogeographer and macroecologist with an interest in long term history."
+  avatar      : "/assets/img/team/dnieto.jpg"
+  location    : "Córdoba (Spain)"
+  position    : Professor
+  institution : Universidad de Córdoba
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dnieto@uco.es"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://dnietolugilde.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dnietolugilde"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://www.facebook.com/diego.nieto.lugilde"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dinilu"
+
+julio:
+  name        : "Julio Peñas de Giles"
+  bio         : "Plant biogeographer and conservation biologist."
+  avatar      : "/assets/img/team/jpenas.jpg"
+  location    : "Granada (Spain)"
+  position    : Professor
+  institution : Universidad de Granada
+
+javier:
+  name        : "Julio Peñas de Giles"
+  bio         : "Plant genetist and conservation biologist."
+  avatar      : "/assets/img/team/jpenas.jpg"
+  location    : "Salamanca (Spain)"
+  position    : Postdoc researcher
+  institution : Universidad de Salamanca
+
+paqui:
+  name        : "Francisca Alba Sánchez"
+  bio         : "Plant paleoecologist and palynologist."
+  avatar      : "/assets/img/team/falba.jpg"
+  location    : "Granada (Spain)"
+  position    : Full professor
+  institution : Universidad de Granada
+
+antonio:
+  name        : "Antonio González Hernández"
+  bio         : "Plant biogeographer."
+  avatar      : "/assets/img/team/agonzalez.jpg"
+  location    : "Granada (Spain)"
+  position    : Postdoc researcher
+  institution : Universidad de Granada
+
+daniel:
+  name        : "Daniel Abel Schaad"
+  bio         : "Paleopalynologist."
+  avatar      : "/assets/img/team/dabel.jpg"
+  location    : "Granada (Spain)"
+  position    : Postdoc researcher
+  institution : Universidad de Granada

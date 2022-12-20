@@ -1,6 +1,7 @@
 ---
+author: paqui
 name: Francisca Alba Sánchez
-pic: "img/team/falba.jpg"
+pic: "/assets/img/team/falba.jpg"
 position: Professor
 institution: Universidad de Granada
 social:

@@ -1,6 +1,7 @@
 ---
+author: javier
 name: Javier Bobo Pinilla
-pic: "img/team/jbobo.jpg"
+pic: "/assets/img/team/jbobo.jpg"
 position: Postdoc researcher
 institution: Universidad de Salamanca
 social:

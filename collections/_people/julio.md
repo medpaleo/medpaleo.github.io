@@ -1,6 +1,7 @@
 ---
+author: julio
 name: Julio Peñas de Giles
-pic: "img/team/jpenas.jpg"
+pic: "/assets/img/team/jpenas.jpg"
 position: Professor
 institution: Universidad de Granada
 social:

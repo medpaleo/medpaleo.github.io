@@ -1,11 +1,12 @@
 ---
+author: diego
 name: Diego Nieto Lugilde
-pic: "img/team/dnieto.jpg"
+pic: "/assets/img/team/dnieto.jpg"
 position: Professor
 institution: Universidad de Córdoba
 social:
   - title: twitter
-    url: #
+    url: https://twitter.com/dnietolugilde
   - title: github
     url: https://github.com/dinilu
   - title: google
