@@ -1,6 +1,7 @@
 ---
 defaults:
   # _pages
+  permalink: /projects/medrefugia
   - scope:
       path: "projects/"
       type: pages
