@@ -6,8 +6,8 @@ modal-id: 1
 date: "July 2021"
 article: "Relationships between climate and phylogenetic community structure of fossil pollen assemblages are not constant during the last deglaciation."
 authors: "Kavya Pradhan, Diego Nieto-Lugilde, and Matthew C. Fitzpatrick" 
-img: phylocom_structure.png
-thumbnail: phylocom_structure-thumbnail.png
+img: assets/img/papers/phylocom_structure.png
+thumbnail: assets/img/papers/phylocom_structure-thumbnail.png
 alt: image-alt
 journal: Plos ONE
 volume: 16(7)

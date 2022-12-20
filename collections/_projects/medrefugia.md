@@ -1,6 +1,7 @@
 ---
 title: MedRefugia project
-subtitle: RTI2018-101714-B-I00
+subtitle: "RTI2018-101714-B-I00"
+layout: default
 excerpt: ""
 header:
   image: /assets/images/foo-bar-identity.jpg
