@@ -1,7 +1,7 @@
 ---
 author: daniel
 name: Daniel Abel Schaad
-pic: "/asstes/img/team/dabel.jpg"
+pic: "/assets/img/team/dabel.jpg"
 position: Postdoc researcher
 institution: Universidad de Granada
 social:

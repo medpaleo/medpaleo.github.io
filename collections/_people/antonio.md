@@ -1,7 +1,7 @@
 ---
 author: antonio
 name: Antonio González Hernandez
-pic: /assets/img/people/agonzalez.jpg
+pic: /assets/img/team/agonzalez.jpg
 position: Postdoc researcher
 institution: Universidad de Granada
 social:
