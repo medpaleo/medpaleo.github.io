@@ -1,10 +1,11 @@
 # main links
 main:
   - title: "Approache"
-    url: #approache
+    url: /#approache
+    class: page-scroll
   - title: "Publications"
-    url: #publications
+    url: /#publications
   - title: "Projects"
-    url: #projects
+    url: /#projects
   - title: "Team"
-    url: #team
+    url: /#team
