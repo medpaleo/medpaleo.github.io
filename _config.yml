@@ -271,6 +271,17 @@ compress_html:
     envs: development
 
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  papers:
+    output: true
+    permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -291,8 +302,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _papers
