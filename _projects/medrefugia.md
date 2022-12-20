@@ -2,7 +2,6 @@
 title: Med-Refugia
 layout: collection
 collection: projects
-path: medrefugia
 entries_layout: grid
 classes: wide
 header:
@@ -17,9 +16,4 @@ sidebar:
 "
 ---
 
-
-<object data="img/projects/micin-uefeder-aei.pdf" type="application/pdf" width="400px" height="120px">
-    <embed src="img/projects/micin-uefeder-aei.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://medrefugia.github.io/img/projects/micin-uefeder-aei.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Prueba
