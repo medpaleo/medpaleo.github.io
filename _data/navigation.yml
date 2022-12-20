@@ -2,7 +2,6 @@
 main:
   - title: "Approache"
     url: /#approache
-    class: page-scroll
   - title: "Publications"
     url: /papers
   - title: "Projects"
