@@ -11,29 +11,23 @@ feature_row:
     title: "Paleoecology"
     excerpt: "Paleoecological analysis provide valuable information on species and community changes through time."
     url: "#paleoecology"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: "/assets/img/approach/flask.svg"
     title: "Phylogenetics"
     excerpt: "Phylogenetic analysis inform on the relationship between species and populations, as well as their demographic changes."
     url: "#paleoecology"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: "/assets/img/approach/laptop.svg"
     title: "Ecoinformatics"
     excerpt: "Independent and spatially explicit evidence to contrast and complement paleoecology and phylogenetics."
     url: "#paleoecology"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-approach: 
-  - title: "Research approach"
-  - excerpt: "We combine three main research tools to study mediterranean ecosystems."
 ---
 
-{% include feature_row id="approach" type="center" %}
-{% include feature_row %}
-
+<section id="approach">
+    <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Research approach</h2>
+        <p>We combine three main research tools to study mediterranean ecosystems.</p>
+        {% include feature_row %}
+    </div>
+</section>
 {% include portfolio_grid.html %}
 {% include projects.html %}
 {% include team.html %}
