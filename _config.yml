@@ -1,6 +1,8 @@
 url: https://medpaleo.github.io
 baseurl: /
 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # Site settings
 title: MedPaleo
 email: dnietolugilde@gmail.com
@@ -119,3 +121,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-include-cache
