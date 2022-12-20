@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "MedPaleo"
-title_separator          : "-"
-subtitle                 :
+title_separator          : "|"
+subtitle                 : "Mediterranean Paleoecology"
 name                     : "Mediterranean Paleoecology Group"
 description              : "Medpaleo is a research team that combine paleoecology, neoecology, phylogenetics, and ecoinformatics."
 url                      : https://medpaleo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -286,6 +286,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      sticky: true
   # _projects
   - scope:
       path: ""
@@ -297,6 +298,7 @@ defaults:
       comments: false
       share: true
       related: true
+      sticky: true
   # _papers
   - scope:
       path: ""
@@ -308,6 +310,7 @@ defaults:
       comments: false
       share: true
       related: true
+      sticky: true
   # _people
   - scope:
       path: ""
@@ -319,3 +322,4 @@ defaults:
       comments: false
       share: true
       related: true
+      sticky: true
