@@ -4,8 +4,8 @@ main:
     url: /#approache
     class: page-scroll
   - title: "Publications"
-    url: /portfolio
+    url: /papers
   - title: "Projects"
     url: /projects
   - title: "Team"
-    url: /team
+    url: /people
