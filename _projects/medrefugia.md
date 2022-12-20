@@ -1,13 +1,10 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: "projects/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-permalink: /projects/medrefugia
+title: Med-Refugia
+layout: collection
+permalink: /projects/
+collection: projects
+entries_layout: grid
+classes: wide
 ---
 
 Esta web es parte del proyecto de I+D+i RTI2018-101714-B-I00 financiada por MCIN/ AEI/10.13039/501100011033/ y FEDER “Una manera de hacer
