@@ -302,7 +302,7 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: true
@@ -313,9 +313,9 @@ defaults:
       type: papers
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
   # _people
@@ -324,8 +324,8 @@ defaults:
       type: people
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
