@@ -28,6 +28,12 @@ feature_row:
         {% include feature_row %}
     </div>
 </section>
-{% include portfolio_grid.html %}
+
+<div class="grid__wrapper">
+  {% for post in site.papers limit:3 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+<!-- {% include portfolio_grid.html %} -->
 {% include projects.html %}
 {% include team.html %}
