@@ -1,7 +1,7 @@
 ---
 title: "MedRefugia project"
 excerpt: ""
-image: "/assets/img/projects/medrefugia/summary_img.png"
+image: /assets/img/projects/medrefugia/summary_img.png
 classes: wide
 sidebar:
   - title: "Funding"
