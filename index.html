@@ -30,14 +30,16 @@ feature_row:
 </section>
 
 <section id="publications">
-  <div class="grid__wrapper text-center">
-    <h2 class="section-heading">Publications</h2>
-    <p>Our lattest publications.</p>
-    {% for post in site.papers limit:3 %}
-      {% include archive-single.html type="grid" %}
-    {% endfor %}
+  <div class="text-center">
+    <div class="grid__wrapper">
+      <h2 class="section-heading">Publications</h2>
+      <p>Our lattest publications.</p>
+      {% for post in site.papers limit:3 %}
+        {% include archive-single.html type="grid" %}
+      {% endfor %}
+    </div>
+    <a href="/publications" class="btn--primary">Read more...</a>
   </div>
-  <a href="/publications" class="btn--primary">Read more...</a>
 </section>
 
 {% include projects.html %}
