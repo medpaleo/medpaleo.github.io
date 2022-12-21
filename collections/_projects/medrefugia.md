@@ -10,6 +10,8 @@ sidebar:
     image_alt: "Ministerio de Ciencia e Innovación, Feder, y Agencia Española de Investigación."
 ---
 
+![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ image }}) {: .full}
+
 Conservation priorities in the Mediterranean Basin have become increasingly linked to areas of potential refugia,especially in mountain regions, having an inherent resilience to climate disturbances, providing safe havens where biota can be safeguarded for long.
 
 With the present project (MED-REFUGIA) we intend to highlight the role played by Mediterranean mountains in preserving cold-adapted species during the Holocene climatic amelioration, current interglacial period, which have forced these species to migrate upwards, from lowland areas, searching for more climatically appropriate places where they may survive. This project also aims to propose the term interglacial refugia in the Mediterranean mountains for cold-adapted taxa, making use of long temporal (from Late Glacial Maximum to Recent Warming) datasets on the presence of these taxa in order to validate the proposed definition.
