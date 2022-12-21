@@ -2,6 +2,7 @@
 title: "MedRefugia project"
 excerpt: ""
 image: /assets/img/projects/medrefugia/summary_img.png
+tagline: "This is the website of the R+D+i project RTI2018-101714-B-I00 funded by MCIN/ AEI/10.13039/501100011033/ and FEDER `Una manera de hacer Europa.`"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"
