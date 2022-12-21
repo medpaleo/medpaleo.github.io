@@ -286,7 +286,6 @@ defaults:
       comments: false
       share: false
       related: false
-      sticky: true
   # _projects
   - scope:
       path: ""
@@ -298,7 +297,6 @@ defaults:
       comments: false
       share: false
       related: false
-      sticky: true
   # _papers
   - scope:
       path: ""
@@ -310,7 +308,6 @@ defaults:
       comments: false
       share: true
       related: false
-      sticky: true
   # _people
   - scope:
       path: ""
@@ -322,4 +319,3 @@ defaults:
       comments: false
       share: false
       related: false
-      sticky: true
