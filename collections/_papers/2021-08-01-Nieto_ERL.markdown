@@ -7,5 +7,6 @@ header:
 journal: Envir. Research Letters
 volume: 16(9)
 pages: 095005 
-excerpt: In this manuscript, we review the state of the art of research infrastructure in Paleoecology and descrive future venues for integration with Neoecological research infrastructures.
 ---
+
+In this manuscript, we review the state of the art of research infrastructure in Paleoecology and descrive future venues for integration with Neoecological research infrastructures.
