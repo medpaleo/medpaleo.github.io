@@ -12,6 +12,10 @@ sidebar:
     image: "/assets/img/projects/medrefugia/micin-uefeder-aei.png"
     image_alt: "Ministerio de Ciencia e Innovación, Feder, y Agencia Española de Investigación."
 classes: wide
+results:
+  - paper:
+    url: 
+    
 ---
 
 ![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.image }})
@@ -27,3 +31,4 @@ Employing primarily both existing fossil records and new sequences and surveys (
 With the aim of responding to the question "Are high mountain micro-refugia the key to mountain conifer forest sustainability and conservation under projected climate change?", MED-REFUGIA will evaluate the migration capacity of Mediterranean mountain conifer species, their potential for in situ adaptation, ecosystem turnover over time, the tipping points that could lead them to extinction, the rate of change and, ultimately, define vulnerability indexes/thresholds.
 
 With this multidisciplinary approach, we expect our assessment will enable the improvement of conservation policies for the long-term survival of these relict long-lived species and their genetic resources.
+
