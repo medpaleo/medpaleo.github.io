@@ -33,7 +33,7 @@ feature_row:
   <h2 class="section-heading text-center">Publications</h2>
   <p class="text-center">Our lattest publications...</p>
   <div class="grid__wrapper">
-    {% assign sorted = site.papers | sort: 'date' | reverse  %}
+    {% assign sorted = site.papers | reverse  %}
     {% for post in sorted limit: 4 %}
       {% include archive-single.html type="grid" %}
     {% endfor %}
