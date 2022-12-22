@@ -4,7 +4,6 @@ title: "Don't lose sight of the forest for the trees! Discerning Iberian pine co
 authors: "José Antonio López-Sáez, J. Julio Camarero, Daniel Abel-Schaad, Reyes Luelmo-Lautenschlaeger, Sebastián Pérez-Díaz, Francisca Alba-Sánchez, and José S. Carrión" 
 header:
     teaser: assets/img/papers/2020_rpp_iberian_pines.jpg
-project-date: 2019
 journal: Review of Palaeobotany and Palynology
 volume: 281
 pages: 104285 
