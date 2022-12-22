@@ -21,13 +21,13 @@ feature_row:
     excerpt: "Independent and spatially explicit evidence to contrast and complement paleoecology and phylogenetics."
 ---
 
-<section id="approach">
+<div id="approach">
+  <h2 class="section-heading">Our research approach</h2>
+  <p class="text-center">We combine three main research tools to study mediterranean ecosystems.</p>
   <div class="col-lg-12 text-center">
-    <h2 class="section-heading">Our research approach</h2>
-    <p>We combine three main research tools to study mediterranean ecosystems.</p>
     {% include feature_row %}
   </div>
-</section>
+</div>
 
 <div id="publications">
   <h2 class="section-heading text-center">Publications</h2>
@@ -40,27 +40,23 @@ feature_row:
   <a href="/papers" class="btn btn--primary">More papers...</a>
 </div>
 
-<section id="projects">
-  <div class="text-center">
-    <h2 class="section-heading">Projects</h2>
-    <p>The most recent projects...</p>
-    <div class="grid__wrapper">
-      {% for post in site.projects limit: 4 %}
-        {% include archive-single.html type="grid" %}
-      {% endfor %}
-    </div>
-    <a href="/projects" class="btn btn--primary">Older projects...</a>
+<div id="projects">
+  <h2 class="section-heading text-center">Projects</h2>
+  <p class="text-center">The most recent projects...</p>
+  <div class="grid__wrapper">
+    {% for post in site.projects limit: 4 %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
   </div>
-</section>
+  <a href="/projects" class="btn btn--primary">Older projects...</a>
+</div>
 
-<section id="team">
-  <div class="text-center">
-    <h2 class="section-heading">Team</h2>
-    <p>Our amazing team...</p>
-    <div class="grid__wrapper">
-      {% for post in site.people %}
-        {% include archive-single.html type="grid" %}
-      {% endfor %}
-    </div>
+<div id="team">
+  <h2 class="section-heading text-center">Team</h2>
+  <p class="text-center">Our amazing team...</p>
+  <div class="grid__wrapper">
+    {% for post in site.people %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
   </div>
-</section>
+</div>

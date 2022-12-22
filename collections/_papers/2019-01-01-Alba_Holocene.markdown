@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "The impact of climate and land-use changes on the most southerly fir forests (Abies pinsapo) in Europe."
 authors: "Francisca Alba-Sánchez, José Antonio López-Sáez, Daniel Abel-Schaad, Silvia Sabariego Ruiz, Sebastián Pérez-Díaz, Antonio González-Hernández, and Juan Carlos Linares" 
 header:

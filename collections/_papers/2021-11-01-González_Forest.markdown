@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
 authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez" 
 header:

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Don't lose sight of the forest for the trees! Discerning Iberian pine communities by means of pollen‐vegetation relationships"
 authors: "José Antonio López-Sáez, J. Julio Camarero, Daniel Abel-Schaad, Reyes Luelmo-Lautenschlaeger, Sebastián Pérez-Díaz, Francisca Alba-Sánchez, and José S. Carrión" 
 header:

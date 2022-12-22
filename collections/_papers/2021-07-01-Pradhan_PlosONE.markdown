@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Relationships between climate and phylogenetic community structure of fossil pollen assemblages are not constant during the last deglaciation."
 authors: "Kavya Pradhan, Diego Nieto-Lugilde, and Matthew C. Fitzpatrick" 
 header:

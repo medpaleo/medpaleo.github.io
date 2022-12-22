@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Late Glacial-early holocene vegetation and environmental changes in the western Iberian Central System inferred from a key site: The Navamuño record, Béjar range (Spain)"
 authors: "José Antonio López-Sáez, Rosa M. Carrasco, Valentí Turu, Blanca Ruiz-Zapata, María José Gil-García, Reyes Luelmo-Lautenschlaeger, Sebastián Pérez-Díaz, Francisca Alba-Sánchez, Daniel Abel-Schaad, Xavier Ros, and Javier Pedraza" 
 header:
