@@ -15,11 +15,10 @@ sidebar:
 classes: wide
 results:
   - paper:
-    url: 
-    
+    url:    
 ---
 
-![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.image }})
+![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.header.teaser }})
 {: .full}
 
 Conservation priorities in the Mediterranean Basin have become increasingly linked to areas of potential refugia,especially in mountain regions, having an inherent resilience to climate disturbances, providing safe havens where biota can be safeguarded for long.
