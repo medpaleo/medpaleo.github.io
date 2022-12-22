@@ -1,14 +1,11 @@
 ---
-title: Abies pinsapo Boiss. range shift
-subtitle: 
+id: Abies pinsapo Boiss. range shift
 layout: default
-modal-id: 3
 date: "November 2021"
-article: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
+title: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss."
 authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez" 
-img: assets/img/papers/lean_pattern_forest.png
-thumbnail: assets/img/papers/lean_pattern_forest-thumbnail.png
-alt: image-alt
+header:
+    teaser: assets/img/papers/lean_pattern_forest.png
 project-date: 2019
 journal: Forest
 volume: 12(11)
