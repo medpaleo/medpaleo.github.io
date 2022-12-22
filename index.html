@@ -39,7 +39,30 @@ feature_row:
       {% endfor %}
     </div>
     <a href="/papers" class="btn btn--primary">More papers...</a>
-
   </div>
 </section>
 
+<section id="projects">
+  <div class="text-center">
+    <h2 class="section-heading">Projects</h2>
+    <p>Our most recent projects...</p>
+    <div class="grid__wrapper">
+      {% for post in site.projects limit: 4 %}
+        {% include archive-single.html type="grid" %}
+      {% endfor %}
+    </div>
+    <a href="/projects" class="btn btn--primary">Older projects...</a>
+  </div>
+</section>
+
+<section id="team">
+  <div class="text-center">
+    <h2 class="section-heading">Team</h2>
+    <p>Our amazing team...</p>
+    <div class="grid__wrapper">
+      {% for post in site.people %}
+        {% include archive-single.html type="grid" %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
