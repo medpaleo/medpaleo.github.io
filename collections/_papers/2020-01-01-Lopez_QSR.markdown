@@ -4,6 +4,7 @@ authors: "José Antonio López-Sáez, Rosa M. Carrasco, Valentí Turu, Blanca Ru
 header:
     teaser: /assets/img/papers/2020_QSR_Navamuño.jpg
 journal: Quaternary Science Reviews
+year: 2020
 volume: 230
 pages: 106167 
 ---

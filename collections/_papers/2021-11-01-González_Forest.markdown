@@ -3,8 +3,8 @@ title: "Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo
 authors: "Antonio González-Hernández, Diego Nieto-Lugilde, Julio Peñas de Giles, and Francisca Alba-Sánchez" 
 header:
     teaser: assets/img/papers/lean_pattern_forest.png
-project-date: 2019
 journal: Forest
+year: 2021
 volume: 12(11)
 pages: 1451 
 ---

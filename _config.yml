@@ -302,7 +302,7 @@ defaults:
       path: ""
       type: papers
     values:
-      layout: single
+      layout: single-paper
       author_profile: false
       read_time: false
       comments: false

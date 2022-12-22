@@ -4,6 +4,7 @@ authors: "Kavya Pradhan, Diego Nieto-Lugilde, and Matthew C. Fitzpatrick"
 header:
   teaser: assets/img/papers/phylocom_structure.png
 journal: Plos ONE
+year: 2021
 volume: 16(7)
 pages: e0240957 
 ---

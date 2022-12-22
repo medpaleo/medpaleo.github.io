@@ -4,6 +4,7 @@ authors: "Francisca Alba-Sánchez, José Antonio López-Sáez, Daniel Abel-Schaa
 header:
   teaser: assets/img/papers/2019_holocene_pinsapo.jpg
 journal: The Holocene
+year: 2019
 volume: 29(7)
 pages: 1176–1188 
 ---

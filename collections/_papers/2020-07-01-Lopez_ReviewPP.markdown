@@ -4,6 +4,7 @@ authors: "José Antonio López-Sáez, J. Julio Camarero, Daniel Abel-Schaad, Rey
 header:
     teaser: assets/img/papers/2020_rpp_iberian_pines.jpg
 journal: Review of Palaeobotany and Palynology
+year: 2020
 volume: 281
 pages: 104285 
 ---
