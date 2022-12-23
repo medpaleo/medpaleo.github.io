@@ -2,7 +2,7 @@
 title: "Primeros datos sobre la composición holocena de los bosques de montaña en el Parque Natural Sierra de las Nieves (Serranía de Ronda) a partir del análisis pedoantracológico"
 authors: "José Antonio Olmedo-Cobo, Ruben Pardo-Martínez, and José Gómez-Zotano" 
 header:
-  teaser: assets/img/papers/2021_bage_sierra_nevada.jpg
+  teaser: assets/img/papers/2021_bage_sierra_nievesS.jpg
 journal: Boletín de la Asociación de Geógrafos Españoles
 year: 2021
 volume: 89
