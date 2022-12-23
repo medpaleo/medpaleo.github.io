@@ -7,9 +7,9 @@ header:
   teaser: "/assets/img/projects/paleopersistence/2023-01-01-paleopersistence_summary.jpg"
 sidebar:
   - title: "Financiación"
-    text: "Esta web es parte del proyecto de I+D+i RTI2018-101714-B-I00 financiada por MCIN/ AEI/10.13039/501100011033/ y FEDER “Una manera de hacer Europa."
+    text: "Esta web es parte del proyecto de I+D+i TED2021-132631B-I00 financiada por MCIN/ AEI/10.13039/501100011033/ y FEDER “Una manera de hacer Europa."
   - title: "Funding"
-    text: "This is the website of the R+D+i project TED2021-132631B-I00 funded by MCIN/ AEI/10.13039/501100011033/ and FEDER 'Una manera de hacer Europa.'"
+    text: "This is the website of the R+D+i project TED2021-132631B-I00 funded by MCIN/ AEI/10.13039/501100011033/ and FEDER 'A way of making Europe.'"
   - title: ""
     image: "/assets/img/projects/paleopersistence/funding_logo.png"
     image_alt: "Ministerio de Ciencia e Innovación, Feder, y Agencia Española de Investigación"
@@ -21,7 +21,6 @@ results:
 ---
 
 ![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.header.teaser }})
-{: .full}
 
 The present proposal falls within the scope of Conservation Paleobiology, defined as the application of theories and analytical tools of paleontology to biodiversity conservation and the use of geohistorical records to address current problems in the conservation and restoration of biodiversity and ecosystem services (Dietl & Flessa, 2017), whose aims are closely related to some of the environmental objectives of ecological transition (Regulation 2020/852/EU), more specifically on (a) climate change mitigation; (b) climate change adaptation; and (f) the protection and restoration of biodiversity and ecosystems. 
 
