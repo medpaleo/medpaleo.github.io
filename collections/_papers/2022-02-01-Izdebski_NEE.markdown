@@ -2,7 +2,7 @@
 title: "Palaeoecological data indicates land-use changes across Europe linked to spatial heterogeneity in mortality during the Black Death pandemic"
 authors: "A. Izdebski, P. Guzowski, R. Poniat, L. Masci, J. Palli, C. Vignola, M. Bauch, C. Cocozza, R. Fernandes, F. C. Ljungqvist, T. Newfield, A. Seim, D. Abel-Schaad, F. Alba-Sánchez, L. Björkman, A. Brauer, A. Brown, S. Czerwiński, A. Ejarque, M. Fiłoc, A. Florenzano, E. D. Fredh, R. Fyfe, N. Jasiunas, P. Kołaczek, K. Kouli, R. Kozáková, M. Kupryjanowicz, P. Lagerås, M. Lamentowicz, M. Lindbladh, J. A. López-Sáez, R. Luelmo-Lautenschlaeger, K. Marcisz, F. Mazier, S. Mensing, A. M. Mercuri, K. Milecka, Y. Miras, A. M. Noryśkiewicz, E. Novenko, M. Obremska, S. Panajiotidis, M. L. Papadopoulou, A. Pędziszewska, S. Pérez-Díaz, G. Piovesan, A. Pluskowski, P. Pokorny, A. Poska, T. Reitalu, M. Rösch, L. Sadori, C. Sá Ferreira, D. Sebag, M. Słowiński, M. Stančikaitė, N. Stivrins, I. Tunno, S. Veski, A. Wacnik, and A. Masi " 
 header:
-  teaser: assets/img/papers/2022_NatureEE_paleodata.jpg
+  teaser: assets/img/papers/2022_natureee_paleodata.jpg
 journal: Nature Ecology & Evolution
 year: 2022
 volume: 6
