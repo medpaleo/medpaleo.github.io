@@ -1,24 +1,25 @@
 ---
-title: "MedRefugia project"
-excerpt: ""
-image: /assets/img/projects/medrefugia/summary_img.png
-tagline: "This is the website of the R+D+i project RTI2018-101714-B-I00 funded by MCIN/ AEI/10.13039/501100011033/ and FEDER 'Una manera de hacer Europa.'"
+title: "MedRefugia"
+tagline: "Interglacial refugia in Western Mediterranean Mountains. Implications for montane conifers conservation"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"
+  teaser: "/assets/img/projects/medrefugia/summary_img.png"
 sidebar:
-  - title: "Funding"
+  - title: "Financiación"
     text: "Esta web es parte del proyecto de I+D+i RTI2018-101714-B-I00 financiada por MCIN/ AEI/10.13039/501100011033/ y FEDER “Una manera de hacer Europa."
+  - title: "Funding"
+    text: "This is the website of the R+D+i project TED2021-132631B-I00 funded by MCIN/ AEI/10.13039/501100011033/ and FEDER 'Una manera de hacer Europa.'"
+  - title: ""
     image: "/assets/img/projects/medrefugia/micin-uefeder-aei.png"
-    image_alt: "Ministerio de Ciencia e Innovación, Feder, y Agencia Española de Investigación."
+    image_alt: "Ministerio de Ciencia e Innovación, Feder, y Agencia Española de Investigación"
 classes: wide
 results:
   - paper:
-    url: 
-    
+    url:    
 ---
 
-![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.image }})
+![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.header.teaser }})
 {: .full}
 
 Conservation priorities in the Mediterranean Basin have become increasingly linked to areas of potential refugia,especially in mountain regions, having an inherent resilience to climate disturbances, providing safe havens where biota can be safeguarded for long.
