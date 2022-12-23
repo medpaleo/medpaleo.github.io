@@ -1,5 +1,5 @@
 ---
-title: "The history of Abies pinsapo during the Holocene in southern Spain, based on pedoanthracological analysis."
+title: "The history of Abies pinsapo during the Holocene in southern Spain, based on pedoanthracological analysis"
 authors: "Rubén Pardo‑Martínez José Gómez‑Zotano, and José Antonio Olmedo‑Cobo" 
 header:
   teaser: assets/img/papers/2022_abies_pedoanthraco.jpg
@@ -7,6 +7,7 @@ journal: Vegetation History and Archaeobotany
 year: 2022
 volume: 31
 pages: 307–321
+doi: https://doi.org/10.1007/s00334-021-00855-w
 ---
 
 The aim of this research is to reconstruct the ancient distribution area of Abies pinsapo Boiss. (Spanish fir) in the Serranía de Ronda region, southern Spain, during the Holocene. The main method was pedoanthracological analysis, the study of non-archaeological charcoal found in natural soils. In this research a total of 37 soil excavations were done in several mountain ranges with potentially favourable places for firs to have grown in the past. Specific sites and places such as hillsides, endorheic basins (with no outflow), sinkholes, summits and mountain passes were selected on the basis of evidence from a range of different sources including ancient documents, pollen studies and species distribution models. The soil samples collected from these sites were prepared in the laboratory and the charcoal was identified and radiocarbon dated. Statistical and cartographic analyses were also done. 

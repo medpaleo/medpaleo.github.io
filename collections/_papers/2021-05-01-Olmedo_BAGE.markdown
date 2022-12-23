@@ -7,6 +7,7 @@ journal: Boletín de la Asociación de Geógrafos Españoles
 year: 2021
 volume: 89
 pages: 1-46
+doi: https://doi.org/10.21138/bage.3099 
 ---
 
 En este trabajo se presentan los primeros datos de la composición holocena de los bosques de montaña en el Parque Natural Sierra de las Nieves (Málaga, España). La información obtenida resulta de la aplicación del método pedoantracológico en 10 enclaves del espacio natural protegido. 

@@ -1,0 +1,13 @@
+---
+title: "Spatially explicit assessment of genetic variation to inform conservation effort for an endangered Mediterranean conifer, Cedrus atlantica"
+authors: "Javier Bobo-Pinilla, Diego Nieto Lugilde, Anass Terrab, Francisco Balao, and Julio Peñas" 
+header:
+  teaser: assets/img/papers/2022_ecol_evol_cedrus.jpg
+journal: Ecology & Evolution
+year: 2022
+volume: 12
+pages: e9613 
+doi: https://doi.org/10.1002/ece3.9613
+---
+
+Preserving the genetic diversity of forest species is critical for maintaining their adaptive potential and allowing for generation turnover in forest ecosystems. Considering an uncertain future, it is necessary to establish reliable genetic conservation strategies to optimize the genetic variation preserved within populations in a spatially explicit context to assist decision-makers. Hence, we aimed to incorporate genetic information into spatially designed conservation actions. Cedrus atlantica is a large, long-lived conifer native to the mountains of North Africa, threatened by extinction. The relevant genetic units for conservation were selected using Bayesian analysis. The relative contribution of the populations to the genetic pool that maximized the species' genetic diversity was calculated to design  an optimal seed bank. Finally, the relationship between the genetic composition and bioclimatic variables was estimated and projected throughout the study area under current and future climatic conditions. Three relevant genetic units were found for C. atlantica conservation that maximizes genetic diversity in a spatial context. Bioclimatic variables with the highest influence on genetic composition were closely related to climate warming and decreased soil water availability. We identified the role of genetic markers in designing a reliable conservation strategy for forest trees considering climate change, increased deforestation, and aridity. Projections of genetic composition due to the climate in the study region of North Africa provide spatially explicit guidance for optimizing the selection and preservation of seed banks.

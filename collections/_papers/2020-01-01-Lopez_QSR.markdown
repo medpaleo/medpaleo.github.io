@@ -7,6 +7,7 @@ journal: Quaternary Science Reviews
 year: 2020
 volume: 230
 pages: 106167 
+doi: https://doi.org/10.1016/j.quascirev.2020.106167
 ---
 
 A new record from a long sediment core (S3) in Navamuño (1505 m asl, western Iberian Central System) provides the reconstruction of the vegetation history and environmental changes in the region between 15.6 and 10.6 ka cal BP, namely during the Late Glacial and the early Holocene, using a multiproxy analysis (pollen-based vegetation and climate reconstruction, sedimentary macrocharcoals, loss-onignition, magnetic susceptibility and X-ray fluorescence (XRF) measurements). The results are then compared with other sequences from the Iberian Central System and the whole Iberian Peninsula in order to better understand the past dynamics of the main forest constituents. 

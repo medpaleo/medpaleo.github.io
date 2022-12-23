@@ -1,15 +1,13 @@
 ---
-title: "Early anthropogenic change in western Mediterranean mountains
-(Sierra Nevada, SE Spain)"
-authors: "Francisca Alba-Sánchez, Daniel Abel-Schaad, José Antonio López-Sáez,
-Silvia Sabariego-Ruiz, Sebastián Pérez-Díaz, Reyes Luelmo-Lautenschlaeger, and
-José Antonio Garrido-García" 
+title: "Early anthropogenic change in western Mediterranean mountains (Sierra Nevada, SE Spain)"
+authors: "Francisca Alba-Sánchez, Daniel Abel-Schaad, José Antonio López-Sáez, Silvia Sabariego-Ruiz, Sebastián Pérez-Díaz, Reyes Luelmo-Lautenschlaeger, and José Antonio Garrido-García" 
 header:
   teaser: assets/img/papers/2021_anthropocene_sierra_nevada.jpg
 journal: Anthropocene
 year: 2021
 volume: 33
 pages: 100278
+doi: https://doi.org/10.1016/j.ancene.2021.100278
 ---
 
 Human impact on western Mediterranean mountains is gaining more attention, as they harbour a rich plant diversity threatened by global change. This paper presents an analysis of two pollen records from both sides of Sierra Nevada, the prime plant-diversity centre of the Mediterranean, spanning the last 5400 years. The analysis sought to answer the following key questions: When did natural systems transform to cultural landscapes? What was the intensity and extent of alterations driven by the diverse civilizations? A compilation of archaeological and paleaeoclimatic data supported this analysis, as well as a multi-proxy palaeoecological study using pollen, non-pollen palynomorphs and microcharcoal, searching for the imprint that diverse societies left on these mountains. 

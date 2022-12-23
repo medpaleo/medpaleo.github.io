@@ -47,7 +47,9 @@ layout: default
           </aside>
         {% endif %}
        
-        <p class="notice--info">{{ page.authors }} ({{ page.year }}). {{ page.title }}. <i>{{page.journal}}</i> {{page.volume}}: {{page.pages}}</p>
+        <p class="notice--info">{{ page.authors }} ({{ page.year }}). {{ page.title }}. <i>{{page.journal}}</i> {{page.volume}}: {{page.pages}}<br>
+        DOI: <a href="{{ page.doi }}">{{ page.doi }}</a></p>
+        
        
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

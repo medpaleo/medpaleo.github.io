@@ -1,0 +1,16 @@
+---
+title: "Late glacial–postglacial North African landscape and forestmanagement: Palynological and anthracological studies in the caves of Kaf Taht el-Ghar and El Khil (Tingitana Peninsula, Morocco)"
+authors: "Mónica Ruiz-Alonso, Daniel Abel-Schaad, José Antonio López-Sáez, Rafael M. Martínez Sánchez,
+Juan Carlos Vera-Rodríguez, Guillem Pérez-Jordà, Leonor Peña-Chocarro, and Francisca Alba-Sánchez" 
+header:
+    teaser: assets/img/papers/2021_rpp_ktg_el_khil.jpg
+journal: Review of Palaeobotany and Palynology
+year: 2021
+volume: 293
+pages: 104486 
+doi: https://doi.org/10.1016/j.revpalbo.2021.104486
+---
+
+This work presents the anthracological and archeopalynological results obtained within the project AGRIWESTMED (ERC AdG 230561), which has involved a comprehensive retrieval of archeobiological remains based on a systematic sampling strategy, beyond the recovery of the usual archeologicalmaterials. These surveys were conducted on three sites located in the North ofMorocco: the cave of Kaf Taht-el-Ghar, 8 kmsoutheast from Tetuan, and two caveswithin the El Khil complex, close to Tanger. Both plant micro- andmacro-remains (charred wood) were studied through palynological and anthracological analyses, respectively.
+
+Our goal was to assess the vegetation composition of the area as well as the impact of human activities on the landscape. In Kaf Taht-el-Ghar the dynamics of vegetation and land use is recorded over the Paleolithic, Epipaleolithic, Neolithic and Historic times. Clear changes such as the demise of ancient Paleolithic pine and juniper woods during the Epipaleolithic and the subsequent spread of grasslands are shown. Other conifers like Abies pinsapo, Cedrus atlantica and Taxus baccata also disappeared from the pollen and charred wood records. In the palynological study, cereal and broad beans (Vicia faba) are already detected in the Early Neolithic, as well as a lowering of grazing pressure. Both cereal and broad beans, along with the development of grazing activities are also documented around El Khil caves since the Early Neolithic. Throughout the whole pollen and anthracological sequences a progressive retreat of the tree cover and an extensive spread of grasslands could be set as the main features of the vegetation dynamics in this area.

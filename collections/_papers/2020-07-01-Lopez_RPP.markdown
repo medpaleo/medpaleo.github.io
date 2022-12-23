@@ -7,6 +7,7 @@ journal: Review of Palaeobotany and Palynology
 year: 2020
 volume: 281
 pages: 104285 
+doi: https://doi.org/10.1016/j.revpalbo.2020.104285
 ---
 
 A set of 30 modern pollen samples collected in pine communities of the Gúdar Range (southeastern Iberian System) has been investigated to determine the relationships between pollen percentages and vegetation composition along a ~1000 m elevation transect. Pollen representationwas estimated by comparing the presence of plant taxa from a recent vegetation survey with pollen spectra. 

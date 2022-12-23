@@ -7,6 +7,7 @@ journal: Catena
 year: 2021
 volume: 207
 pages: 105689 
+doi: https://doi.org/10.1016/j.catena.2021.105689
 ---
 
 By comparing niche models fitted with adults and juveniles of Abies pinsapo, we have been able to identify an altitudinal shift in their distribution. This shift is not synchronous in the upper and lower range limits, leading to a lean pattern that, if continued in the future, might cause a strong range contration.
