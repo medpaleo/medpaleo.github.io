@@ -3,11 +3,11 @@ author: antonio
 title: Antonio González Hernandez
 header:
   teaser: /assets/img/team/agonzalez.jpg
-social:
-  - title: twitter
-    url: #
-  - title: github
-    url: #
-  - title: google-plus
-    url: #
+sidebar:
+  - title: 
+    image: "/assets/img/team/agonzalez.jpg"
+    image_alt: "Antonio González Hernández"
+  - text: "Universidad de Granada"
+  - text: "Postdoc researcher"
+  
 ---

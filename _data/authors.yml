@@ -1,10 +1,7 @@
 diego:
-  name        : "Diego Nieto Lugilde"
-  bio         : "Plant biogeographer and macroecologist with an interest in long term history."
-  avatar      : "/assets/img/team/dnieto.jpg"
-  location    : "Córdoba (Spain)"
-  position    : Professor
-  institution : Universidad de Córdoba
+  name: "Diego Nieto Lugilde"
+  bio: "Plant biogeographer and macroecologist with an interest in long term history."
+  avatar: "/assets/img/team/dnieto.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -21,6 +18,15 @@ diego:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dinilu"
+
+antonio:
+  name: "Antonio González Hernández"
+  bio: "Plant biogeographer."
+  avatar: "/assets/img/team/agonzalez.jpg"
+  links:
+    - label: twitter
+      icon: "fab fa-fw fa-twitter-square"
+      url: #
 
 julio:
   name        : "Julio Peñas de Giles"
@@ -44,14 +50,6 @@ paqui:
   avatar      : "/assets/img/team/falba.jpg"
   location    : "Granada (Spain)"
   position    : Full professor
-  institution : Universidad de Granada
-
-antonio:
-  name        : "Antonio González Hernández"
-  bio         : "Plant biogeographer."
-  avatar      : "/assets/img/team/agonzalez.jpg"
-  location    : "Granada (Spain)"
-  position    : Postdoc researcher
   institution : Universidad de Granada
 
 daniel:
