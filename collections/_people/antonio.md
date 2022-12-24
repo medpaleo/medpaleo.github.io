@@ -1,9 +1,14 @@
 ---
 author: antonio
-name: Antonio González Hernandez
-pic: /assets/img/team/agonzalez.jpg
-position: Postdoc researcher
-institution: Universidad de Granada
+title: Antonio González Hernandez
+header:
+  teaser: /assets/img/team/agonzalez.jpg
+sidebar:
+  - title: "Financiación"
+    text: "Postdoc researcher"
+    text: "Universidad de Granada"
+    image: "/assets/img/projects/medrefugia/micin-uefeder-aei.png"
+    image_alt: "Ministerio de Ciencia e Innovación, Feder, y Agencia Española de Investigación"
 social:
   - title: twitter
     url: #
