@@ -1,6 +1,6 @@
 ---
 author: diego
-name: Diego Nieto Lugilde
+title: Diego Nieto Lugilde
 header:
   teaser: /assets/img/team/dnieto.jpg
 ---

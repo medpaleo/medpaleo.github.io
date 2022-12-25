@@ -1,6 +1,6 @@
 ---
 author: paqui
-name: Francisca Alba Sánchez
+title: Francisca Alba Sánchez
 header:
   teaser: "/assets/img/team/falba.jpg"
 ---
