@@ -1,14 +1,6 @@
 ---
 author: daniel
-name: Daniel Abel Schaad
-pic: "/assets/img/team/dabel.jpg"
-position: Postdoc researcher
-institution: Universidad de Granada
-social:
-  - title: twitter
-    url: #
-  - title: facebook
-    url: #
-  - title: google-plus
-    url: #
+title: Daniel Abel Schaad
+header:
+  teaser: "/assets/img/team/dabel.jpg"
 ---

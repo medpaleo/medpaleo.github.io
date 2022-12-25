@@ -24,46 +24,38 @@ diego:
       icon: "fab fa-fw fa-google-scholar-square"
       url: https://scholar.google.com/citations?user=JX3AT7EAAAAJ&hl=en
 
-
 antonio:
   name: "Antonio González Hernández"
   bio: "Plant biogeographer."
   avatar: "/assets/img/team/agonzalez.jpg"
   location: Universidad de Granada (Spain)
   position: Postdoc researcher
-  links:
-    - label: twitter
-      icon: "fab fa-fw fa-twitter-square"
-      url: #
-
-julio:
-  name        : "Julio Peñas de Giles"
-  bio         : "Plant biogeographer and conservation biologist."
-  avatar      : "/assets/img/team/jpenas.jpg"
-  location    : "Granada (Spain)"
-  position    : Professor
-  institution : Universidad de Granada
-
-javier:
-  name        : "Julio Peñas de Giles"
-  bio         : "Plant genetist and conservation biologist."
-  avatar      : "/assets/img/team/jpenas.jpg"
-  location    : "Salamanca (Spain)"
-  position    : Postdoc researcher
-  institution : Universidad de Salamanca
-
-paqui:
-  name        : "Francisca Alba Sánchez"
-  bio         : "Plant paleoecologist and palynologist."
-  avatar      : "/assets/img/team/falba.jpg"
-  location    : "Granada (Spain)"
-  position    : Full professor
-  institution : Universidad de Granada
 
 daniel:
   name        : "Daniel Abel Schaad"
   bio         : "Paleopalynologist."
   avatar      : "/assets/img/team/dabel.jpg"
-  location    : "Granada (Spain)"
+  location    : "Universidad de Granada (Spain)"
   position    : Postdoc researcher
-  institution : Universidad de Granada
+
+julio:
+  name        : "Julio Peñas de Giles"
+  bio         : "Plant biogeographer and conservation biologist."
+  avatar      : "/assets/img/team/jpenas.jpg"
+  location    : "Universidad de Granada (Spain)"
+  position    : Professor
+
+javier:
+  name        : "Julio Peñas de Giles"
+  bio         : "Plant genetist and conservation biologist."
+  avatar      : "/assets/img/team/jpenas.jpg"
+  location    : "Universidad de Salamanca (Spain)"
+  position    : Postdoc researcher
+
+paqui:
+  name        : "Francisca Alba Sánchez"
+  bio         : "Plant paleoecologist and palynologist."
+  avatar      : "/assets/img/team/falba.jpg"
+  location    : "Universidad de Granada (Spain)"
+  position    : Full professor
+

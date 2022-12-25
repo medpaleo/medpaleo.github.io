@@ -102,6 +102,23 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+
+# Site Author
+author:
+  name             : "Diego Nieto Lugilde"
+  avatar           : "/assets/img/team/dnieto.jpg"
+  bio              : "Plant biogeographer and macroecologist with an interest in long term history."
+  location         : "Córdoba (Spain)"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bv2nilud@uco.es"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://medpaleo.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/medpaleo"
     
 # Site Footer
 footer:
