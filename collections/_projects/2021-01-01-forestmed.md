@@ -1,17 +1,17 @@
 ---
-title: "Feder-UGR"
+title: "Forestmed"
 tagline: ""
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"
-  teaser: "/assets/img/projects/medrefugia/summary.png"
+  teaser: "/assets/img/projects/forestmed/summary.png"
 sidebar:
   - title: "Financiación"
     text: ""
   - title: "Funding"
     text: "'"
   - title: ""
-    image: "/assets/img/projects/medrefugia/micin-uefeder-aei.png"
+    image: "/assets/img/projects/forestmed/funding.png"
     image_alt: ""
 classes: wide
 results:

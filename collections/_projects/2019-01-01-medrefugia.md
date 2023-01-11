@@ -11,7 +11,7 @@ sidebar:
   - title: "Funding"
     text: "This is the website of the R+D+i project TED2021-132631B-I00 funded by MCIN/ AEI/10.13039/501100011033/ and FEDER 'Una manera de hacer Europa.'"
   - title: ""
-    image: "/assets/img/projects/medrefugia/micin-uefeder-aei.png"
+    image: "/assets/img/projects/medrefugia/funding.png"
     image_alt: "Ministerio de Ciencia e Innovación, Feder, y Agencia Española de Investigación"
 classes: wide
 results:
