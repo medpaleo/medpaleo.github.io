@@ -11,7 +11,7 @@ sidebar:
   - title: "Funding"
     text: "'"
   - title: ""
-    image: "/assets/img/projects/oromed_refugia/funding.png"
+    image: "/assets/img/projects/oromed_refugia/funding.jpeg"
     image_alt: ""
 classes: wide
 results:
