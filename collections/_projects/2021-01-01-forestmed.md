@@ -1,6 +1,7 @@
 ---
 title: "Forestmed"
 tagline: ""
+img-summary: "/assets/img/projects/forestmed/summary.png"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"

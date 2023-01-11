@@ -1,6 +1,7 @@
 ---
 title: "OroMed-Refugia"
 tagline: ""
+img-summary: "/assets/img/projects/oromed_refugia/summary.png"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"

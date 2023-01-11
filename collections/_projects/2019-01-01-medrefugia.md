@@ -1,10 +1,11 @@
 ---
 title: "MedRefugia"
 tagline: "Interglacial refugia in Western Mediterranean Mountains. Implications for montane conifers conservation"
+img-summary: "/assets/img/projects/medrefugia/summary.png"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"
-  teaser: "/assets/img/projects/medrefugia/summary_img.png"
+  teaser: "/assets/img/projects/medrefugia/teaser.png"
 sidebar:
   - title: "Financiación"
     text: "Esta web es parte del proyecto de I+D+i RTI2018-101714-B-I00 financiada por MCIN/ AEI/10.13039/501100011033/ y FEDER “Una manera de hacer Europa."
@@ -19,7 +20,7 @@ results:
     url:    
 ---
 
-![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.header.teaser }})
+![Project visual summary]({{ site.url }}{{ site.baseurl }}{{ page.img-summary }})
 
 Conservation priorities in the Mediterranean Basin have become increasingly linked to areas of potential refugia,especially in mountain regions, having an inherent resilience to climate disturbances, providing safe havens where biota can be safeguarded for long.
 

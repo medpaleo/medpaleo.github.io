@@ -1,6 +1,7 @@
 ---
 title: "Paleopersistence"
 tagline: "Long-term persistence of Mediterranean Mountain conifers"
+img-summary: "/assets/img/projects/paleopersistence/summary.png"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"
