@@ -5,7 +5,7 @@ img-summary: "/assets/img/projects/paleopersistence/summary.png"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"
-  teaser: "/assets/img/projects/paleopersistence/summary.jpg"
+  teaser: "/assets/img/projects/paleopersistence/teaser.jpg"
 sidebar:
   - title: "Financiación"
     text: "Esta web es parte del proyecto de I+D+i TED2021-132631B-I00 financiada por MCIN/ AEI/10.13039/501100011033/ y FEDER “Una manera de hacer Europa."
