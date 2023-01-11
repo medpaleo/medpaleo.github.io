@@ -4,7 +4,7 @@ tagline: "Long-term persistence of Mediterranean Mountain conifers"
 header:
   overlay_image: /assets/img/header-bg.png
   overlay_color: "#333"
-  teaser: "/assets/img/projects/paleopersistence/2023-01-01-paleopersistence_summary.jpg"
+  teaser: "/assets/img/projects/paleopersistence/summary.jpg"
 sidebar:
   - title: "Financiación"
     text: "Esta web es parte del proyecto de I+D+i TED2021-132631B-I00 financiada por MCIN/ AEI/10.13039/501100011033/ y FEDER “Una manera de hacer Europa."
