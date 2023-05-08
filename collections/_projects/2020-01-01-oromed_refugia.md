@@ -8,11 +8,12 @@ header:
   teaser: "/assets/img/projects/oromed_refugia/summary.jpg"
 sidebar:
   - title: "Financiación"
-    text: ""
+    text: "Esta web ha sido financiado con cargo a la ayuda P18-RT-4963 concedida por la Consejería
+    de Universidad, Investigación e Innovación de la Junta de Andalucía y por FEDER, Una manera de hacer Europa."
   - title: "Funding"
-    text: "'"
+    text: "This website has been funded (grant P18-RT-4963) by Consejería de Universidad, Investigación e Innovación (Junta de Andalucía) and FEDER, A way to make Europe."
   - title: ""
-    image: "/assets/img/projects/oromed_refugia/funding.jpeg"
+    image: "/assets/img/projects/oromed_refugia/funding.png"
     image_alt: ""
 classes: wide
 results:
